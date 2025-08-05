@@ -6,3 +6,6 @@ Examples of my information visualizations
 
 ## AI Prompt Engineering
 ![AI-Prompt-Engineering](plantuml/AI-Prompt-Engineering.svg)
+
+## Deep Dive into AI and ML
+![Deep Dive into AI and ML](plantuml/deep-dive-into-ai-and-ML.svg)
