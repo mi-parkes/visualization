@@ -15,6 +15,18 @@ Examples of my information visualizations
 ### Deep Dive into AI and ML
 ![Deep Dive into AI and ML](plantuml/deep-dive-into-ai-and-ML.svg)
 
+## OmniGraffle
+
+### Packaging Software With Conan
+![Packaging Software With Conan](omnigraffle/PackagingSoftwareWithConan.jpg)
+
+
+### Self Attention
+![Self Attention](omnigraffle/SelfAttention.svg)
+
+### WardleyMaps
+![Self Attention](omnigraffle/FightingIllegalFishing1.svg)
+
 ## MatplotLib
 
 ### Concept2

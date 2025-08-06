@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-58 60 1030 859" width="1030" height="859">
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dadada"/>
+      <stop offset=".5025923" stop-color="white"/>
+      <stop offset="1" stop-color="#dadada"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(-31.42442 474.8828) scale(1002.4331)"/>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#b1001c">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" stroke="none" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <title>Map Canvas Group</title>
+        <g id="Graphic_18">
+          <title>gradient</title>
+          <rect x="-31.42442" y="62.38281" width="1002.4331" height="825" fill="url(#Obj_Gradient)"/>
+          <rect x="-31.42442" y="62.38281" width="1002.4331" height="825" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_17">
+          <text transform="translate(-48.967 857.5078) rotate(-90)" fill="#424242">
+            <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="#424242" x="0" y="11" xml:space="preserve">Invisible</tspan>
+          </text>
+        </g>
+        <g id="Graphic_16">
+          <text transform="translate(-50.971865 127.50781) rotate(-90)" fill="#424242">
+            <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="#424242" x="0" y="11" xml:space="preserve">Visible</tspan>
+          </text>
+        </g>
+        <g id="Graphic_15">
+          <text transform="translate(-57.490114 489.6328) rotate(-90)" fill="#424242">
+            <tspan font-family="Helvetica Neue" font-size="12" fill="#424242" x="0" y="12" xml:space="preserve">Value chain</tspan>
+          </text>
+        </g>
+        <g id="Line_14">
+          <title>Y axis line</title>
+          <line x1="-31.42442" y1="886.1328" x2="-31.42442" y2="71.03281" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_13">
+          <title>X axis line</title>
+          <line x1="-31.42442" y1="887.3828" x2="961.1087" y2="887.3828" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_12">
+          <text transform="translate(-16.40009 895.8398)" fill="black">
+            <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Genesis</tspan>
+          </text>
+        </g>
+        <g id="Graphic_11">
+          <text transform="translate(231.7021 895.8398)" fill="black">
+            <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Custom Built</tspan>
+          </text>
+        </g>
+        <g id="Graphic_10">
+          <text transform="translate(482.8116 895.8398)" fill="black">
+            <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Product (+rental)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_9">
+          <text transform="translate(734.9235 895.8398)" fill="black">
+            <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Basic Service (+utility)</tspan>
+          </text>
+        </g>
+        <g id="Line_8">
+          <title>custom built line</title>
+          <line x1="219.93568" y1="912.3828" x2="218.93324" y2="62.38281" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Line_7">
+          <title>product line</title>
+          <line x1="469.2909" y1="912.3828" x2="470.29334" y2="62.38281" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Line_6">
+          <title>commodity line</title>
+          <line x1="719.6486" y1="912.3828" x2="720.651" y2="62.38281" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5">
+          <text transform="translate(905.1477 889.1671)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="4654055e-19" y="12" xml:space="preserve">Evolution</tspan>
+          </text>
+        </g>
+        <g id="Graphic_4">
+          <text transform="translate(-14.824581 70.95877)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="12" xml:space="preserve">Uncharted</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3">
+          <text transform="translate(890.8435 70.95877)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="12" xml:space="preserve">Industrialized</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_19">
+        <title>Component Label only</title>
+        <path d="M 536.95847 197.05896 L 642.6555 197.05896 C 643.76 197.05896 644.6555 197.9544 644.6555 199.05896 L 644.6555 235.78696 C 644.6555 236.89152 643.76 237.78696 642.6555 237.78696 L 536.95847 237.78696 C 535.8539 237.78696 534.95847 236.89152 534.95847 235.78696 L 534.95847 199.05896 C 534.95847 197.9544 535.8539 197.05896 536.95847 197.05896 Z" fill="#dadada"/>
+        <text transform="translate(539.95847 202.05896)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="10.490999" y="12" xml:space="preserve">Illegal Fishing </tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="16.8675" y="27.364" xml:space="preserve">Intelligence</tspan>
+        </text>
+      </g>
+      <g id="Graphic_74">
+        <title>Component Label only</title>
+        <path d="M 41.907685 279.60583 L 147.60469 279.60583 C 148.70925 279.60583 149.60469 280.50126 149.60469 281.60583 L 149.60469 302.96983 C 149.60469 304.0744 148.70925 304.96983 147.60469 304.96983 L 41.907685 304.96983 C 40.803116 304.96983 39.907685 304.0744 39.907685 302.96983 L 39.907685 281.60583 C 39.907685 280.50126 40.803116 279.60583 41.907685 279.60583 Z" fill="#7ee642"/>
+        <text transform="translate(44.907685 284.60583)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="10.607999" y="12" xml:space="preserve">Fishing Alerts</tspan>
+        </text>
+      </g>
+      <g id="Graphic_75">
+        <title>Component Label only</title>
+        <path d="M 289.9819 279.60583 L 395.6789 279.60583 C 396.78347 279.60583 397.6789 280.50126 397.6789 281.60583 L 397.6789 302.96983 C 397.6789 304.0744 396.78347 304.96983 395.6789 304.96983 L 289.9819 304.96983 C 288.87733 304.96983 287.9819 304.0744 287.9819 302.96983 L 287.9819 281.60583 C 287.9819 280.50126 288.87733 279.60583 289.9819 279.60583 Z" fill="#7ee642"/>
+        <text transform="translate(292.9819 284.60583)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="13.975" y="12" xml:space="preserve">Project Data</tspan>
+        </text>
+      </g>
+      <g id="Graphic_76">
+        <title>Component Label only</title>
+        <path d="M 480.9272 279.60583 L 586.6242 279.60583 C 587.7288 279.60583 588.6242 280.50126 588.6242 281.60583 L 588.6242 302.96983 C 588.6242 304.0744 587.7288 304.96983 586.6242 304.96983 L 480.9272 304.96983 C 479.82265 304.96983 478.9272 304.0744 478.9272 302.96983 L 478.9272 281.60583 C 478.9272 280.50126 479.82265 279.60583 480.9272 279.60583 Z" fill="#7ee642"/>
+        <text transform="translate(483.9272 284.60583)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="10.601499" y="12" xml:space="preserve">Vessel Tracks</tspan>
+        </text>
+      </g>
+      <g id="Graphic_77">
+        <title>Component Label only</title>
+        <path d="M 603.6108 279.60583 L 709.3078 279.60583 C 710.4124 279.60583 711.3078 280.50126 711.3078 281.60583 L 711.3078 302.96983 C 711.3078 304.0744 710.4124 304.96983 709.3078 304.96983 L 603.6108 304.96983 C 602.50624 304.96983 601.6108 304.0744 601.6108 302.96983 L 601.6108 281.60583 C 601.6108 280.50126 602.50624 279.60583 603.6108 279.60583 Z" fill="#7ee642"/>
+        <text transform="translate(606.6108 284.60583)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="3.6269993" y="12" xml:space="preserve">Satellite Imigery</tspan>
+        </text>
+      </g>
+      <g id="Line_78">
+        <title>Constraint</title>
+        <line x1="149.60469" y1="283.99328" x2="534.95847" y2="225.7175" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_79">
+        <title>Constraint</title>
+        <line x1="384.66787" y1="279.60583" x2="534.95847" y2="234.04893" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_80">
+        <title>Constraint</title>
+        <line x1="543.2673" y1="279.60583" x2="574.5659" y2="237.78696" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_81">
+        <title>Constraint</title>
+        <line x1="645.1685" y1="279.60583" x2="607.9371" y2="237.78696" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_82">
+        <title>Component Label only</title>
+        <path d="M 41.907685 344.7113 L 147.60469 344.7113 C 148.70925 344.7113 149.60469 345.60673 149.60469 346.7113 L 149.60469 383.4393 C 149.60469 384.54387 148.70925 385.4393 147.60469 385.4393 L 41.907685 385.4393 C 40.803116 385.4393 39.907685 384.54387 39.907685 383.4393 L 39.907685 346.7113 C 39.907685 345.60673 40.803116 344.7113 41.907685 344.7113 Z" fill="white"/>
+        <text transform="translate(44.907685 349.7113)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="25.0445" y="12" xml:space="preserve">Machine </tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="24.57" y="27.364" xml:space="preserve">Learning</tspan>
+        </text>
+      </g>
+      <g id="Graphic_83">
+        <title>Component Label only</title>
+        <path d="M 289.9819 344.7113 L 395.6789 344.7113 C 396.78347 344.7113 397.6789 345.60673 397.6789 346.7113 L 397.6789 383.4393 C 397.6789 384.54387 396.78347 385.4393 395.6789 385.4393 L 289.9819 385.4393 C 288.87733 385.4393 287.9819 384.54387 287.9819 383.4393 L 287.9819 346.7113 C 287.9819 345.60673 288.87733 344.7113 289.9819 344.7113 Z" fill="white"/>
+        <text transform="translate(292.9819 349.7113)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="22.763" y="12" xml:space="preserve">Proximity</tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="33.241" y="27.364" xml:space="preserve">Alerts</tspan>
+        </text>
+      </g>
+      <g id="Line_84">
+        <title>Constraint</title>
+        <line x1="94.75619" y1="344.7113" x2="94.75619" y2="304.96983" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_85">
+        <title>Constraint</title>
+        <line x1="149.60469" y1="365.0753" x2="287.9819" y2="365.0753" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_86">
+        <title>Component Label only</title>
+        <path d="M 536.95847 431.6829 L 642.6555 431.6829 C 643.76 431.6829 644.6555 432.5783 644.6555 433.6829 L 644.6555 470.4109 C 644.6555 471.51544 643.76 472.4109 642.6555 472.4109 L 536.95847 472.4109 C 535.8539 472.4109 534.95847 471.51544 534.95847 470.4109 L 534.95847 433.6829 C 534.95847 432.5783 535.8539 431.6829 536.95847 431.6829 Z" fill="white"/>
+        <text transform="translate(539.95847 436.6829)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="15.184" y="12" xml:space="preserve">Geo-Spatial</tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="17.589" y="27.364" xml:space="preserve">Processing</tspan>
+        </text>
+      </g>
+      <g id="Line_87">
+        <title>Constraint</title>
+        <line x1="397.47583" y1="384.3184" x2="535.16154" y2="432.80376" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_88">
+        <title>Constraint</title>
+        <line x1="582.6648" y1="431.6829" x2="538.2236" y2="304.96983" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_91">
+        <title>Component Label only</title>
+        <path d="M 694.8237 490.516 L 800.5207 490.516 C 801.6253 490.516 802.5207 491.4114 802.5207 492.516 L 802.5207 513.88 C 802.5207 514.98456 801.6253 515.88 800.5207 515.88 L 694.8237 515.88 C 693.7191 515.88 692.8237 514.98456 692.8237 513.88 L 692.8237 492.516 C 692.8237 491.4114 693.7191 490.516 694.8237 490.516 Z" fill="white"/>
+        <text transform="translate(697.8237 495.516)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="39.741" y="12" xml:space="preserve">AIS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_92">
+        <title>Component Label only</title>
+        <path d="M 819.1421 490.516 L 924.8391 490.516 C 925.9436 490.516 926.8391 491.4114 926.8391 492.516 L 926.8391 513.88 C 926.8391 514.98456 925.9436 515.88 924.8391 515.88 L 819.1421 515.88 C 818.0375 515.88 817.1421 514.98456 817.1421 513.88 L 817.1421 492.516 C 817.1421 491.4114 818.0375 490.516 819.1421 490.516 Z" fill="white"/>
+        <text transform="translate(822.1421 495.516)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="16.744" y="12" xml:space="preserve">Image Files</tspan>
+        </text>
+      </g>
+      <g id="Line_93">
+        <title>Constraint</title>
+        <line x1="734.8106" y1="490.516" x2="546.6373" y2="304.96983" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_94">
+        <title>Constraint</title>
+        <line x1="708.53235" y1="490.516" x2="644.6555" y2="469.81875" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_95">
+        <title>Constraint</title>
+        <line x1="859.0307" y1="490.516" x2="669.4192" y2="304.96983" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_96">
+        <title>Constraint</title>
+        <line x1="314.36866" y1="606.5824" x2="553.51094" y2="472.4109" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_97">
+        <title>Constraint</title>
+        <line x1="454.02013" y1="606.5824" x2="711.6504" y2="515.88" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_98">
+        <title>Constraint</title>
+        <line x1="281.9356" y1="606.5824" x2="110.53925" y2="385.4393" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_99">
+        <title>Point of change</title>
+        <line x1="472.8468" y1="618.78205" x2="797.2461" y2="615.92924" marker-end="url(#FilledArrow_Marker_2)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Line_106">
+        <title>Point of change</title>
+        <line x1="534.95847" y1="452.82545" x2="388.49664" y2="454.9045" marker-end="url(#FilledArrow_Marker_2)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Group_107">
+        <title>Callout</title>
+        <g id="Graphic_109">
+          <title>Callout</title>
+          <circle cx="889.7453" cy="442.79564" r="25.5000407464983" fill="lime"/>
+          <circle cx="889.7453" cy="442.79564" r="25.5000407464983" stroke="#6e6e6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_108">
+          <title>Label</title>
+          <path d="M 772.1445 383.79564 L 905.5943 383.79564 C 906.6989 383.79564 907.5943 384.69108 907.5943 385.79564 L 907.5943 422.52364 C 907.5943 423.6282 906.6989 424.52364 905.5943 424.52364 L 772.1445 424.52364 C 771.04 424.52364 770.1445 423.6282 770.1445 422.52364 L 770.1445 385.79564 C 770.1445 384.69108 771.04 383.79564 772.1445 383.79564 Z" fill="white" fill-opacity=".801279"/>
+          <text transform="translate(775.1445 388.79564)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="24.477888" y="12" xml:space="preserve">Standard GIS </tspan>
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="40.98139" y="27.364" xml:space="preserve">libraries</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_110">
+        <title>Point of change</title>
+        <line x1="644.6555" y1="450.35514" x2="848.3649" y2="444.07197" marker-end="url(#FilledArrow_Marker_2)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Graphic_111">
+        <title>Component Label only</title>
+        <path d="M 289.9819 752.7198 L 395.6789 752.7198 C 396.78347 752.7198 397.6789 753.6153 397.6789 754.7198 L 397.6789 791.4478 C 397.6789 792.5524 396.78347 793.4478 395.6789 793.4478 L 289.9819 793.4478 C 288.87733 793.4478 287.9819 792.5524 287.9819 791.4478 L 287.9819 754.7198 C 287.9819 753.6153 288.87733 752.7198 289.9819 752.7198 Z" fill="#dadada"/>
+        <text transform="translate(292.9819 757.7198)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="16.1395" y="12" xml:space="preserve">Operational </tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="26.3705" y="27.364" xml:space="preserve">Support</tspan>
+        </text>
+      </g>
+      <g id="Graphic_112">
+        <title>Component Label only</title>
+        <path d="M 803.0444 737.3558 L 908.7414 737.3558 C 909.846 737.3558 910.7414 738.2513 910.7414 739.3558 L 910.7414 791.4478 C 910.7414 792.5524 909.846 793.4478 908.7414 793.4478 L 803.0444 793.4478 C 801.9398 793.4478 801.0444 792.5524 801.0444 791.4478 L 801.0444 739.3558 C 801.0444 738.2513 801.9398 737.3558 803.0444 737.3558 Z" fill="#dadada"/>
+        <text transform="translate(806.0444 742.3558)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="13.7215" y="12" xml:space="preserve">DevOps and </tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="22.5225" y="27.364" xml:space="preserve">Microsoft </tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="26.3705" y="42.727997" xml:space="preserve">Support</tspan>
+        </text>
+      </g>
+      <g id="Group_118">
+        <g id="Graphic_113">
+          <title>Project/Team Scope/Area of interest</title>
+          <path d="M 213.01236 599.2075 C 124.79786 650.95425 194.91708 684.836 412.06046 654.65044 C 629.20384 624.46486 457.29866 586.8869 457.29866 586.8869 C 457.29866 586.8869 301.22686 547.4608 213.01236 599.2075 Z" fill="#ff914d"/>
+          <path d="M 213.01236 599.2075 C 124.79786 650.95425 194.91708 684.836 412.06046 654.65044 C 629.20384 624.46486 457.29866 586.8869 457.29866 586.8869 C 457.29866 586.8869 301.22686 547.4608 213.01236 599.2075 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_89">
+          <title>Component Label only</title>
+          <path d="M 238.91625 606.5824 L 344.61325 606.5824 C 345.7178 606.5824 346.61325 607.4778 346.61325 608.5824 L 346.61325 629.9464 C 346.61325 631.051 345.7178 631.9464 344.61325 631.9464 L 238.91625 631.9464 C 237.81168 631.9464 236.91625 631.051 236.91625 629.9464 L 236.91625 608.5824 C 236.91625 607.4778 237.81168 606.5824 238.91625 606.5824 Z" fill="white"/>
+          <text transform="translate(241.91625 611.5824)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="22.8735" y="12" xml:space="preserve">Compute</tspan>
+          </text>
+        </g>
+        <g id="Graphic_90">
+          <title>Component Label only</title>
+          <path d="M 365.1498 606.5824 L 470.8468 606.5824 C 471.9514 606.5824 472.8468 607.4778 472.8468 608.5824 L 472.8468 629.9464 C 472.8468 631.051 471.9514 631.9464 470.8468 631.9464 L 365.1498 631.9464 C 364.04524 631.9464 363.1498 631.051 363.1498 629.9464 L 363.1498 608.5824 C 363.1498 607.4778 364.04524 606.5824 365.1498 606.5824 Z" fill="#a3bfff"/>
+          <text transform="translate(368.1498 611.5824)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="26.9815" y="12" xml:space="preserve">Storage</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_114">
+        <title>Constraint</title>
+        <line x1="342.7697" y1="752.7198" x2="342.5" y2="662.2504" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_115">
+        <title>Point of change</title>
+        <line x1="397.6789" y1="772.2626" x2="785.1462" y2="766.4611" marker-end="url(#FilledArrow_Marker_2)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Group_103">
+        <title>Callout</title>
+        <g id="Graphic_105">
+          <title>Callout</title>
+          <circle cx="347.10078" cy="455.4921" r="25.5000407464984" fill="lime"/>
+          <circle cx="347.10078" cy="455.4921" r="25.5000407464984" stroke="#6e6e6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_104">
+          <title>Label</title>
+          <path d="M 229.5 396.4921 L 362.9498 396.4921 C 364.05435 396.4921 364.9498 397.38754 364.9498 398.4921 L 364.9498 419.8561 C 364.9498 420.9607 364.05435 421.8561 362.9498 421.8561 L 229.5 421.8561 C 228.39543 421.8561 227.5 420.9607 227.5 419.8561 L 227.5 398.4921 C 227.5 397.38754 228.39543 396.4921 229.5 396.4921 Z" fill="white" fill-opacity=".801279"/>
+          <text transform="translate(232.5 401.4921)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x=".27838785" y="12" xml:space="preserve">Optimized processing</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_100">
+        <title>Callout</title>
+        <g id="Graphic_102">
+          <title>Callout</title>
+          <circle cx="838.6445" cy="615.5652" r="25.5000407464983" fill="white"/>
+          <circle cx="838.6445" cy="615.5652" r="25.5000407464983" stroke="#6e6e6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_101">
+          <title>Label</title>
+          <path d="M 772.1445 556.5652 L 854.4935 556.5652 C 855.5981 556.5652 856.4935 557.4606 856.4935 558.5652 L 856.4935 579.9292 C 856.4935 581.03374 855.5981 581.9292 854.4935 581.9292 L 772.1445 581.9292 C 771.04 581.9292 770.1445 581.03374 770.1445 579.9292 L 770.1445 558.5652 C 770.1445 557.4606 771.04 556.5652 772.1445 556.5652 Z" fill="white"/>
+          <text transform="translate(775.1445 561.5652)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="7.9689995" y="12" xml:space="preserve">Serverless</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
