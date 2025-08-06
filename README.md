@@ -3,11 +3,16 @@ Examples of my information visualizations
 
 ## PlantUML
 
-### Sphinx Workflow
+### Sphinx Documentation Generation Workflow
 ![Sphinx Workflow](plantuml/sphinx-workflow.svg)
 
-### Sphinx Workflow2
+### Documentation CI/CD Pipeline
 ![Sphinx Workflow2](plantuml/sphinx-workflow2.svg)
+
+## GraphViz
+
+### Traceability Transition Model
+![Traceability Transition Model](plantuml/traceability-transition-model.svg)
 
 ### AI Prompt Engineering
 ![AI-Prompt-Engineering](plantuml/AI-Prompt-Engineering.svg)
@@ -19,7 +24,6 @@ Examples of my information visualizations
 
 ### Packaging Software With Conan
 ![Packaging Software With Conan](omnigraffle/PackagingSoftwareWithConan.jpg)
-
 
 ### Self Attention
 ![Self Attention](omnigraffle/SelfAttention.svg)
