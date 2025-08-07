@@ -20,6 +20,21 @@ Examples of my information visualizations
 ### Deep Dive into AI and ML
 ![Deep Dive into AI and ML](plantuml/deep-dive-into-ai-and-ML.svg)
 
+## JavaScript
+
+### Software Stack
+![Software Layers](js/sw-layers.jpg)
+
+### vis-network.js
+
+#### Traceability
+![Traceability](js/visjs/sphinx-needs-data-explorer2.jpg)
+
+### d3.js
+
+#### AI-Prompt-Engineering
+![AI-Prompt-Engineering](js/d3js/ai-prompt-engineering.jpg)
+
 ## OmniGraffle
 
 ### Packaging Software With Conan
