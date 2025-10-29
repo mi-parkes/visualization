@@ -11,6 +11,17 @@ Examples of my information visualizations
 
 ## GraphViz
 
+### Swift
+#### My-Swift-Projects
+![My-Swift-Projects](plantuml/my-swift-projects1.svg)
+
+#### Project Technical Roadmap (geo-coord-classifier)
+
+![](https://raw.githubusercontent.com/mi-parkes/geo-coord-classifier/refs/heads/main/data/GeoClassifier_MLOps_Topics.svg)
+
+#### Xcode Project Build Dependency Graph (geo-coord-classifier)
+![My-Swift-Projects](https://raw.githubusercontent.com/mi-parkes/geo-coord-classifier/refs/heads/main/data/dg.svg)
+
 ### Traceability Transition Model
 ![Traceability Transition Model](plantuml/traceability-transition-model.svg)
 
