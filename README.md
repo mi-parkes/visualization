@@ -16,6 +16,9 @@ Examples of my information visualizations
 #### My-Swift-Project-Ecosystem
 ![](plantuml/my-swift-project-ecosystem.svg)
 
+#### LangQuiz: Multi-Modal Architecture
+![](plantuml/LangQuiz.svg)
+
 #### Project Technical Roadmap (geo-coord-classifier)
 
 ![](https://raw.githubusercontent.com/mi-parkes/geo-coord-classifier/refs/heads/main/data/GeoClassifier_MLOps_Topics.svg)
