@@ -29,6 +29,12 @@ Examples of my information visualizations
 ### Traceability Transition Model
 ![Traceability Transition Model](plantuml/traceability-transition-model.svg)
 
+## Mermaid
+
+### LangQuiz
+
+![](mermaid/cv-timeline-hobby-projects-LangQuiz.svg)
+
 ## JavaScript
 
 ### Software Stack
