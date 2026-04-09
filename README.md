@@ -19,6 +19,10 @@ Examples of my information visualizations
 #### LangQuiz: Multi-Modal Architecture
 ![](plantuml/LangQuiz.svg)
 
+#### LangQuiz: OmniLingua Architecture
+![](plantuml/OmniLingua.svg)
+
+
 #### Project Technical Roadmap (geo-coord-classifier)
 
 ![](https://raw.githubusercontent.com/mi-parkes/geo-coord-classifier/refs/heads/main/data/GeoClassifier_MLOps_Topics.svg)
