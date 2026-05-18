@@ -20,8 +20,10 @@ Examples of my information visualizations
 ![](plantuml/LangQuiz.svg)
 
 #### LangQuiz: OmniLingua Architecture
-![](plantuml/OmniLingua.svg)
 
+![](plantuml/OmniLingua_Platform_Ecosystem.svg)
+
+![](plantuml/OmniLingua_Runtime_Architecture.svg)
 
 #### Project Technical Roadmap (geo-coord-classifier)
 
