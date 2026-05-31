@@ -13,6 +13,9 @@ Examples of my information visualizations
 
 ### Swift
 
+#### gRPC Expertise
+![](plantuml/gRPCExpertise.svg)
+
 #### My-Swift-Project-Ecosystem
 ![](plantuml/my-swift-project-ecosystem.svg)
 
