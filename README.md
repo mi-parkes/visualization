@@ -9,6 +9,9 @@ Examples of my information visualizations
 ### Documentation CI/CD Pipeline
 ![Sphinx Workflow2](plantuml/sphinx-workflow2.svg)
 
+### Intelligence Hub in CI/CD Architecture
+![Sphinx Workflow2](plantuml/i-hub.svg)
+
 ## GraphViz
 
 ### Swift
