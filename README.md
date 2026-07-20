@@ -22,6 +22,9 @@ Examples of my information visualizations
 #### Case Study: Zero Trust Architecture with Envoy
 ![](plantuml/ZeroTrustArchitectureWithEnvoy.svg)
 
+#### Case Study: Zero Trust Architecture with Istio
+![](plantuml/ZeroTrustArchitectureWithIstio.svg)
+
 ### Swift
 
 #### gRPC Expertise
