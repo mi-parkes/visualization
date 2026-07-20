@@ -14,6 +14,11 @@ Examples of my information visualizations
 
 ## GraphViz
 
+### Microservices
+
+#### Case Study: Zero Trust Architecture with Envoy
+![](plantuml/ZeroTrustArchitectureWithEnvoy.svg)
+
 ### Swift
 
 #### gRPC Expertise
