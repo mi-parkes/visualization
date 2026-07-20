@@ -16,6 +16,9 @@ Examples of my information visualizations
 
 ### Microservices
 
+#### Foundational Infrastructure and Engineering Standards
+![](plantuml/IDStoreExpertise.svg)
+
 #### Case Study: Zero Trust Architecture with Envoy
 ![](plantuml/ZeroTrustArchitectureWithEnvoy.svg)
 
