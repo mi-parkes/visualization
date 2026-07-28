@@ -12,18 +12,12 @@ Examples of my information visualizations
 ### Intelligence Hub in CI/CD Architecture
 ![Sphinx Workflow2](plantuml/i-hub.svg)
 
-## GraphViz
-
 ### Microservices
-
-#### Foundational Infrastructure and Engineering Standards
-![](plantuml/IDStoreExpertise.svg)
-
-#### Case Study: Zero Trust Architecture with Envoy
-![](plantuml/ZeroTrustArchitectureWithEnvoy.svg)
 
 #### Case Study: Zero Trust Architecture with Istio
 ![](plantuml/ZeroTrustArchitectureWithIstio.svg)
+
+## GraphViz
 
 ### Swift
 
@@ -37,8 +31,6 @@ Examples of my information visualizations
 ![](plantuml/LangQuiz.svg)
 
 #### LangQuiz: OmniLingua Architecture
-
-![](plantuml/OmniLingua_Platform_Ecosystem.svg)
 
 ![](plantuml/OmniLingua_Runtime_Architecture.svg)
 
